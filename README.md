@@ -21,3 +21,4 @@ I am a self-taught developer working on whatever project I feel like!
 
 # My Stats
 ![XeroRuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeroruns&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeroruns)](https://github.com/anuraghazra/github-readme-stats)
