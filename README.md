@@ -34,3 +34,6 @@ I am a self-taught developer working on whatever project I feel like!
 
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeroruns)](https://github.com/anuraghazra/github-readme-stats)
+
+# Wakatime Stats
+[![XeroRuns's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xeroruns)](https://github.com/anuraghazra/github-readme-stats)
